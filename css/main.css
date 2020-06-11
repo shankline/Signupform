@@ -1,0 +1,37 @@
+body
+{
+    font-family: 'Tangerine', serif;
+    font-size: 16px;
+    background: teal;
+}
+
+#bogImage             { position: fixed; left: 30px; }
+
+p                     { font-size: 30px; line-height: 1.3em; }
+
+div#page-wrap         { width: 500px; margin: 20px auto; }
+
+p                     { margin-left: 600px; position: relative;}
+
+form                  { padding-right: 80px; margin-bottom: 20px; }
+
+fieldset              { padding: 10px; position: relative; }
+
+label                 { display: block; float: left; width: 120px; }
+
+input, textarea       { margin-bottom: 5px; }
+
+legend                { font-size: 1.9em; }
+
+#signInButton         { position: absolute; top: 80px; left: 350px; }
+
+#joinButton           { position: absolute; top: 155px; left: 350px; }
+
+#LinksDiv
+{
+    width: 400px;
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    font: 19px "Lucida Grande", Sans-Serif !important;
+}
